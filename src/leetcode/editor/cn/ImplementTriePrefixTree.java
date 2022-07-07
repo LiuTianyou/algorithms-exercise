@@ -49,7 +49,6 @@ package leetcode.editor.cn;
 
 import java.util.HashMap;
 import java.util.Map;
-import javax.swing.tree.TreeNode;
 
 public class ImplementTriePrefixTree {
     
